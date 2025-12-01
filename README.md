@@ -62,4 +62,4 @@ The assets to the repository and reference are here.
 **Preview images**
 - Overview page (hero KPIs + trend chart): ![Dashboard Preview](https://github.com/khushiagrawal893/Education-Management-Data-Analysis/blob/main/Education%20Performance%20Overview.png)
 - Close-up KPI row: ![Dashboard Preview](https://github.com/khushiagrawal893/Education-Management-Data-Analysis/blob/main/Student%20Assessment%20Insights.png)
-- Student Insights (score distribution / at-risk cohort)
+- Student Insights (score distribution / at-risk cohort): ![Dashboard Preview](https://github.com/khushiagrawal893/Education-Management-Data-Analysis/blob/main/Assessment%20Performance%20Analysis.png)
